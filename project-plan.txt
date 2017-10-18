@@ -1,0 +1,33 @@
+Lander Page
+    - App Links
+    - Custom views/widgets
+    -
+
+Users Accounts
+    - Customized access
+    - Groups
+
+Task Management/Ticketing
+    - Create issues
+    - Work lanes/categories
+    - Wishlists
+    - Kanban views
+    - Exports/Reporting
+
+Knowledgebase
+    - Topics
+    - Categories
+    - Private/Public spaces and sharing
+
+Reporting
+    - Import data
+    - Grid view
+    - Filtering/sorting of data
+    - Graph view
+    - Widgets
+    - Export/Share
+
+Calender/Planner
+Email In/Out
+IM
+
